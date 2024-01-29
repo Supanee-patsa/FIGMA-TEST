@@ -1,17 +1,27 @@
 .logo{
     color: #0A1B32;
-font-family: Montserrat;
-font-size: 30px;
-font-style: normal;
-font-weight: 700;
-line-height: 48px; /* 160% */
-letter-spacing: -0.6px;
-letter-spacing: 0.02em;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px; /* 160% */
+    letter-spacing: -0.6px;
+    letter-spacing: 0.02em;
     
-margin: top 37px;
-margin-left: 80px;
+    margin: top 37px;
+    margin-left: 80px;
 }
 
 .logo-dog {
     color: #A3DC00;
+}
+
+.main-title {
+    color: #1B0A42;
+    font-family: Ramaraja;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 76px; /* 105.556% */
+    letter-spacing: 1.44px;
 }
