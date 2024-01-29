@@ -16,6 +16,10 @@
     color: #A3DC00;
 }
 
+section {
+    display: inline-block;
+}
+
 .main-title {
     max-width: 495px;
     width: 100%;
