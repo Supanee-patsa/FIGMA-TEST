@@ -1,14 +1,15 @@
 .logo{
-    font-family: monospace;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 30px;
-    line-height: 48px;
-    /* or 160% */
-    letter-spacing: 0.02em;
-    color: black;
-    margin: top 37px;
-    margin-left: 80px;
+    color: #0A1B32;
+font-family: Montserrat;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: 48px; /* 160% */
+letter-spacing: -0.6px;
+letter-spacing: 0.02em;
+    
+margin: top 37px;
+margin-left: 80px;
 }
 
 .logo-dog {
