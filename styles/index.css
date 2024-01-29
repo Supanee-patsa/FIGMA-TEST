@@ -29,3 +29,13 @@
     line-height: 76px; /* 105.556% */
     letter-spacing: 1.44px;
 }
+
+.main-info {
+    color: #9A9A9A;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; /* 160% */
+    letter-spacing: 0.4px;
+}
