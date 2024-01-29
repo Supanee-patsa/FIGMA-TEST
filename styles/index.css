@@ -47,6 +47,8 @@
 .main-btn {
     width: 152px;
     height: 64px;
+    margin-top: 50px;
+    margin-left: 200px;
     border-radius: 6px;
     background-color: #A3DC00;
     color: #FFF;
