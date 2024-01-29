@@ -43,3 +43,8 @@
     line-height: 32px; /* 160% */
     letter-spacing: 0.4px;
 }
+
+.main-btn {
+    border-radius: 6px;
+    background-color: #A3DC00;
+}
