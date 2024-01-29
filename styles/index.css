@@ -1,0 +1,12 @@
+.logo{
+    font-family: monospace;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 48px;
+    /* or 160% */
+
+    letter-spacing: 0.02em;
+
+    color: black;
+}
