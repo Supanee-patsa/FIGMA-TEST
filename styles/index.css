@@ -5,12 +5,12 @@
     font-size: 30px;
     line-height: 48px;
     /* or 160% */
-
     letter-spacing: 0.02em;
-
     color: black;
-
+    margin: top 37px;
+    margin-left: 80px;
 }
+
 .logo-dog {
     color: rgb(171, 3, 124);
 }
