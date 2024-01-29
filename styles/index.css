@@ -45,6 +45,18 @@
 }
 
 .main-btn {
+    width: 152px;
+    height: 64px;
     border-radius: 6px;
     background-color: #A3DC00;
+    color: #FFF;
+    text-align: center;
+    -webkit-text-stroke-width: 1;
+    -webkit-text-stroke-color: #000;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px; /* 200% */
+    letter-spacing: 0.32px;
 }
