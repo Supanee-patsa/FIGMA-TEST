@@ -17,7 +17,7 @@
 }
 
 section {
-    display: inline;
+    display: inline-block;
 }
 
 .main-title {
