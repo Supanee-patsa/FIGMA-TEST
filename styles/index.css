@@ -16,8 +16,8 @@
     color: #070900;
 }
 
-section {
-    display: inline-block;
+.section {
+    display: inline;
 }
 
 .main-title {
